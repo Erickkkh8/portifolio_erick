@@ -1,8 +1,12 @@
 import "./App.css";
+import Home from "./Section/Home";
 
 function App() {
-  return <>
-  <h1>sjhajsja</h1></>;
+  return (
+    <>
+      <Home />
+    </>
+  );
 }
 
 export default App;
